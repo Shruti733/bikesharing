@@ -31,13 +31,13 @@ are male, 25% users are female and 10% users are unknown.
 Based on the above chart, we can see that most of the bike riders are using bikes for a duration less than 25 minutes.
 Maximum number of bike riders ride the bike for just 5 minutes.
 
-![Checkout_gender](Image_analysis/Checkout_gender.png)
+![Checkout_gender](Image_analysis/checkout_gender.png)
 
 Based on the above chart, it is evident that male riders are considerably more than the female riders for any trip
 duration measured. The male riders mostly checkout bikes for a duration of 5 minutes whereas the female riders
 mostly checkout bikes for a duration of 6 minutes.
 
-![Trip_byweekday_hour](Image_analysis/Trip_byweekday_hour.png)
+![Trip_byweekday_hour](Image_analysis/Trips_byweekday_hour.png)
 
 Based on the above chart, we can see that most of the trips happen during the morning hours of 6am - 9am and evening
 hours of 5pm - 8pm on weekdays. The number of trips are higher in the weekdays than in the weekend.
