@@ -17,40 +17,40 @@ the business proposal.
 
 ![august_peak_hour](Image_analysis/august_peak_hour.png)
 
-Based on the above chart, the peak riding hours during august in New York City is 5:00 p.m. to 7:00 p.m. Also we can see that 
+-  Based on the above chart, the peak riding hours during august in New York City is 5:00 p.m. to 7:00 p.m. Also we can see that 
 2:00 am to 5:00 am are least active riding times, so fewer bikes are needed during this time, which makes it a good time to do
 maintenance. 
 
 ![gender](Image_analysis/gender.png)
 
-Based on the above pie chart, we can determine which gender tends to use bike sharing the most. We can see that 65% users
+-  Based on the above pie chart, we can determine which gender tends to use bike sharing the most. We can see that 65% users
 are male, 25% users are female and 10% users are unknown.
 
 ![Checkout_users](Image_analysis/Checkout_users.png)
 
-Based on the above chart, we can see that most of the bike riders are using bikes for a duration less than 25 minutes.
+-  Based on the above chart, we can see that most of the bike riders are using bikes for a duration less than 25 minutes.
 Maximum number of bike riders ride the bike for just 5 minutes.
 
 ![Checkout_gender](Image_analysis/checkout_gender.png)
 
-Based on the above chart, it is evident that male riders are considerably more than the female riders for any trip
+-  Based on the above chart, it is evident that male riders are considerably more than the female riders for any trip
 duration measured. The male riders mostly checkout bikes for a duration of 5 minutes whereas the female riders
 mostly checkout bikes for a duration of 6 minutes.
 
 ![Trip_byweekday_hour](Image_analysis/Trips_byweekday_hour.png)
 
-Based on the above chart, we can see that most of the trips happen during the morning hours of 6am - 9am and evening
+-  Based on the above chart, we can see that most of the trips happen during the morning hours of 6am - 9am and evening
 hours of 5pm - 8pm on weekdays. The number of trips are higher in the weekdays than in the weekend.
 
 ![Number_string_stoptime](Image_analysis/Number_string_stoptime.png)
 
-The above chart shows gender data for the number of bike trips completed for each hour of each day in the week. We can
+-  The above chart shows gender data for the number of bike trips completed for each hour of each day in the week. We can
 see that female bike rides are `hot` at 8am and 6pm on weekdays whereas the male rides are `hot` at 8am and between
 5pm - 7 pm on weekdays. Both the genders also use the bikes considerably on Saturday between 10am - 5pm.
 
 ![usertrip_bygender_weekday](Image_analysis/usertrip_bygender_weekday.png)
 
-The above chart shows that `customer` type of users ride mostly in the weekend for both the genders whereas the
+-  The above chart shows that `customer` type of users ride mostly in the weekend for both the genders whereas the
 `subscriber` type of users ride mostly in the weekdays for both the genders.
 
 ## Summary
